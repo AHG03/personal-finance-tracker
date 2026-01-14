@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 100.0,
+        "transaction_type": "expense",
+        "category": "food",
+        "note": "date night"
+    },
+    {
+        "amount": 150.0,
+        "transaction_type": "income",
+        "category": "loan",
+        "note": "from friend"
+    }
+]
